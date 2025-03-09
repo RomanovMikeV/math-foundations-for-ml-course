@@ -27,6 +27,13 @@
                 "total": 17,
                 "correct": 7
             }
+        },
+        {
+            "path": "/texts/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
         }
     ],
     "lessons": [
